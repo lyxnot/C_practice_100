@@ -1,0 +1,5 @@
+﻿  源.c
+c:\users\administrator\desktop\c练习\c练习100例\第二阶段-c编程习题\源.c(45): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\administrator\desktop\c练习\c练习100例\第二阶段-c编程习题\源.c(66): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\administrator\desktop\c练习\c练习100例\第二阶段-c编程习题\源.c(78): warning C4101: “p”: 未引用的局部变量
+  第二阶段-C编程习题.vcxproj -> C:\Users\Administrator\Desktop\C练习\C练习100例\Debug\第二阶段-C编程习题.exe
